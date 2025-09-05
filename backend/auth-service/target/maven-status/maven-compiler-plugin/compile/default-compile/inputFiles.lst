@@ -1,0 +1,12 @@
+D:\Healthcare-and-Wellness-System\backend\auth-service\src\main\java\com\health\auth\entity\Role.java
+D:\Healthcare-and-Wellness-System\backend\auth-service\src\main\java\com\health\auth\dto\RegisterRequest.java
+D:\Healthcare-and-Wellness-System\backend\auth-service\src\main\java\com\health\auth\repository\UserRepository.java
+D:\Healthcare-and-Wellness-System\backend\auth-service\src\main\java\com\health\auth\security\JwtUtil.java
+D:\Healthcare-and-Wellness-System\backend\auth-service\src\main\java\com\health\auth\config\SwaggerConfig.java
+D:\Healthcare-and-Wellness-System\backend\auth-service\src\main\java\com\health\auth\config\SecurityConfig.java
+D:\Healthcare-and-Wellness-System\backend\auth-service\src\main\java\com\health\auth\dto\JwtResponse.java
+D:\Healthcare-and-Wellness-System\backend\auth-service\src\main\java\com\health\auth\entity\User.java
+D:\Healthcare-and-Wellness-System\backend\auth-service\src\main\java\com\health\auth\AuthServiceApplication.java
+D:\Healthcare-and-Wellness-System\backend\auth-service\src\main\java\com\health\auth\service\AuthService.java
+D:\Healthcare-and-Wellness-System\backend\auth-service\src\main\java\com\health\auth\controller\AuthController.java
+D:\Healthcare-and-Wellness-System\backend\auth-service\src\main\java\com\health\auth\dto\LoginRequest.java

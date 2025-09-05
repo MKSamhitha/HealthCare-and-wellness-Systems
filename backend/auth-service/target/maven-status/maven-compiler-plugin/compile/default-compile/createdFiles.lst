@@ -1,0 +1,12 @@
+com\health\auth\dto\RegisterRequest.class
+com\health\auth\config\SwaggerConfig.class
+com\health\auth\dto\JwtResponse.class
+com\health\auth\config\SecurityConfig.class
+com\health\auth\entity\User.class
+com\health\auth\controller\AuthController.class
+com\health\auth\repository\UserRepository.class
+com\health\auth\dto\LoginRequest.class
+com\health\auth\entity\Role.class
+com\health\auth\AuthServiceApplication.class
+com\health\auth\service\AuthService.class
+com\health\auth\security\JwtUtil.class
