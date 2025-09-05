@@ -76,7 +76,8 @@ npm start
 
 * Update application.properties or application.yml in the backend project:
 
-```spring.datasource.url=jdbc:mysql://localhost:3306/healthcare_wellness
+```
+spring.datasource.url=jdbc:mysql://localhost:3306/healthcare_wellness
 spring.datasource.username=your_username
 spring.datasource.password=your_password
 spring.jpa.hibernate.ddl-auto=update
