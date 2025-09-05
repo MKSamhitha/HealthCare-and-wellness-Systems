@@ -69,7 +69,7 @@ npm start
 * Token must be sent in the Authorization header for every secure API call.
 
 ## Database Setup (MySQL)
-*Create a database:
+* Create a database:
 
 
 ```CREATE DATABASE healthcare_wellness;```
@@ -93,4 +93,5 @@ spring.jpa.hibernate.ddl-auto=update
 
 ## Author
 * KRISHNA SAMHITHA MADIRAJU
+  
 Capstone Project for Wipro Training 2025
