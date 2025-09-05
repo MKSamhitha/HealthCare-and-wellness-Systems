@@ -7,9 +7,9 @@ This project is a Capstone Project for Wipro Training, designed to provide a sea
 
 The system provides:
 
--`Patient registration, authentication, and profile management-`
--`Appointment booking and tracking-`
--`Doctor management and availability-`
+* Patient registration, authentication, and profile management
+-Appointment booking and tracking
+-Doctor management and availability-`
 -`Secure authentication using JWT tokens-`
 -`Full integration between Backend (Spring Boot) and Frontend (React.js)-`
 
